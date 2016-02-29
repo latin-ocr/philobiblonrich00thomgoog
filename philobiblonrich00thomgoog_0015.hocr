@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philobiblonrich00thomgoog_0015.png"; bbox 0 0 2324 3982; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 543 1269 726 1346">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 543 1269 726 1346">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 1269 726 1346; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 543 1269 726 1346; x_wconf 88' lang='lat' dir='ltr'>Contents</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 211 1483 883 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 211 1483 879 1588">
+     <span class='ocr_line' id='line_1_2' title="bbox 211 1483 879 1588; baseline 0 -32"><span class='ocrx_word' id='word_1_2' title='bbox 211 1483 363 1557; x_wconf 80' lang='lat' dir='ltr'>Presace</span> <span class='ocrx_word' id='word_1_3' title='bbox 422 1538 430 1555; x_wconf 90' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 534 1540 543 1557; x_wconf 92' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 646 1541 654 1556; x_wconf 92' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 760 1540 768 1556; x_wconf 91' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 810 1572 815 1588; x_wconf 37' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 872 1540 879 1556; x_wconf 94' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 212 1601 883 1929">
+     <span class='ocr_line' id='line_1_3' title="bbox 212 1601 612 1676; baseline 0.005 -3"><span class='ocrx_word' id='word_1_9' title='bbox 212 1601 491 1676; x_wconf 88' lang='lat' dir='ltr'>Introduction:</span> <span class='ocrx_word' id='word_1_10' title='bbox 610 1650 612 1655; x_wconf 93' lang='lat'>-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 312 1717 883 1816; baseline 0 -25"><span class='ocrx_word' id='word_1_11' title='bbox 312 1717 572 1816; x_wconf 85' lang='lat' dir='ltr'>Biographical</span> <span class='ocrx_word' id='word_1_12' title='bbox 652 1773 659 1789; x_wconf 91' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 763 1777 771 1792; x_wconf 95' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 876 1776 883 1791; x_wconf 88' lang='lat'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 312 1829 883 1929; baseline -0.002 -26"><span class='ocrx_word' id='word_1_15' title='bbox 312 1829 622 1929; x_wconf 84' lang='lat' dir='ltr'>Bibliographical</span> <span class='ocrx_word' id='word_1_16' title='bbox 647 1889 654 1905; x_wconf 89' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 762 1886 769 1901; x_wconf 93' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 875 1886 883 1902; x_wconf 89' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 211 1944 881 2042">
+     <span class='ocr_line' id='line_1_6' title="bbox 211 1944 881 2042; baseline 0.003 -24"><span class='ocrx_word' id='word_1_19' title='bbox 211 1944 444 2021; x_wconf 87' lang='lat' dir='ltr'>Philobiblon</span> <span class='ocrx_word' id='word_1_20' title='bbox 466 1945 615 2021; x_wconf 86' lang='lat' dir='ltr'>Ricardi</span> <span class='ocrx_word' id='word_1_21' title='bbox 633 1947 681 2021; x_wconf 89' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 702 1948 804 2042; x_wconf 83' lang='lat' dir='ltr'>Bury</span> <span class='ocrx_word' id='word_1_23' title='bbox 874 2004 881 2020; x_wconf 93' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 210 2062 881 2139">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 210 2062 881 2139">
+     <span class='ocr_line' id='line_1_7' title="bbox 210 2062 881 2139; baseline -0.001 -2"><span class='ocrx_word' id='word_1_24' title='bbox 210 2062 297 2137; x_wconf 89' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_25' title='bbox 317 2062 550 2139; x_wconf 88' lang='lat' dir='ltr'>Philobiblon</span> <span class='ocrx_word' id='word_1_26' title='bbox 569 2063 771 2139; x_wconf 85' lang='lat' dir='ltr'>translated</span> <span class='ocrx_word' id='word_1_27' title='bbox 873 2119 881 2136; x_wconf 88' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1166 3982">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1166 3982">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1166 3982; baseline 0 1"><span class='ocrx_word' id='word_1_28' title='bbox 0 0 1166 3982; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
